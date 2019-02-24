@@ -22,8 +22,10 @@ The script performs the following steps:
 * The tidy_data.txt data set is created, which is the average of each variable for each activity and each subject
 
 The tidy_data.txt was created using the run_analysis.R script using R version 3.5.1 (2018-07-02)
+
 Platform: x86_64-w64-mingw32/x64 (64-bit)
 
 # Dependencies
 The latest version of R needs to be installed on your system\n
+
 The script requires the dplyr and RCurl packages
